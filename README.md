@@ -249,7 +249,7 @@ MAXCHICHAR — Architect of GitHub Stock Exchange system.
 Backend Engine:
 
 ```
-github-market-engine ==> https://github.com/maxchichar/github-market-engine
+https://github.com/maxchichar/github-market-engine
 ```
 
 ---
